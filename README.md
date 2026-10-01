@@ -44,6 +44,3 @@ The experiment generates main metrics, differential trial and summary tables, ke
 
 AES-CBC provides confidentiality without authentication. This is a research experiment. Results must be regenerated for this nonlinear diffusion version before updating paper tables.
 
-## Validation
-
-The Python source was checked for syntax and the notebook structure was checked. The complete dataset experiment has not been run during project packaging. Permutation and nonlinear diffusion inverse self-tests are included in the source.
