@@ -1,0 +1,8 @@
+pycryptodome
+numpy
+opencv-python
+matplotlib
+scipy
+scikit-image
+kagglehub
+pandas
