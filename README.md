@@ -25,14 +25,6 @@ For an initial short check, change `NUM_IMAGES = 1` and `DIFF_TRIALS = 2` in the
 
 The notebook automatically downloads BSDS500 through kagglehub. Default settings process 10 grayscale images resized to 256 x 256, with 100 differential trials per image.
 
-## Colab, Jupyter, and VS Code
-
-- **Colab** is a hosted Jupyter notebook service: edit code cells and see plots and tables in a browser, with execution on a Google-hosted runtime.
-- **Jupyter Notebook/JupyterLab** use the same `.ipynb` format and can run locally with your Python environment.
-- **VS Code** is a general code editor. It can run the `.py` script or open `.ipynb` notebooks with Python and Jupyter support configured.
-
-The notebook already contains the complete experiment; no replacement source file is needed for Colab. See the [official Colab FAQ](https://research.google.com/colaboratory/faq.html) for notebook import, storage, and runtime behavior.
-
 ## Run locally
 
 Use Python 3.10 or newer in a virtual environment:
