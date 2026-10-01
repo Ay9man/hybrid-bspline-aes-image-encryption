@@ -2,6 +2,17 @@
 
 Research implementation of image encryption using a key-dependent discrete B-spline pixel permutation, reversible nonlinear bidirectional diffusion, and AES-128-CBC. Domain-separated HKDF-SHA256 derives material from a 256-bit master key. Normal encryption generates a fresh random IV.
 
+## Authors
+
+Mariam Raheem<sup>1</sup>, Mohammed Ahmed Al-janabi<sup>2</sup>, Mohaimen Q. Algburi<sup>3</sup>, Ayman N. Muhi<sup>4</sup>
+
+<sup>1</sup> College of Communication Engineering, University of Technology- Iraq, mariam.r.abdulsahib@uotechnology.edu.iq<br>
+<sup>2</sup> College of Communication Engineering, University of Technology- Iraq, mohammed.a.kareem@uotechnology.edu.iq<br>
+<sup>3</sup> College of Communication Engineering, University of Technology- Iraq, mohaimen.q.khalaf@uotechnology.edu.iq<br>
+<sup>4</sup> College of Communication Engineering, University of Technology- Iraq, aymen.n.muhi@uotechnology.edu.iq
+
+\*Correspondence: aymen.n.muhi@uotechnology.edu.iq
+
 ## Files
 
 - `hybrid_bspline_aes.ipynb`: complete Jupyter notebook for Google Colab or Jupyter, including a dependency installation cell.
