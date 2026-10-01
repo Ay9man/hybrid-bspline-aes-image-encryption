@@ -42,5 +42,5 @@ Edit the Configuration section to change `IMAGE_SIZE`, `NUM_IMAGES`, `DIFF_TRIAL
 
 The experiment generates main metrics, differential trial and summary tables, key-sensitivity tables, overall summaries, and an ablation table. The final block reports differential outliers. CSV results are excluded by `.gitignore`.
 
-AES-CBC provides confidentiality without authentication. This is a research experiment. Results must be regenerated for this nonlinear diffusion version before updating paper tables.
+AES-CBC provides confidentiality without authentication. This is a research experiment.
 
