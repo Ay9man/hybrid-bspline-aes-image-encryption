@@ -4,12 +4,15 @@ Research implementation of image encryption using a key-dependent discrete B-spl
 
 ## Authors
 
-Mariam Raheem<sup>1</sup>, Mohammed Ahmed Al-janabi<sup>2</sup>, Mohaimen Q. Algburi<sup>3</sup>, Ayman N. Muhi<sup>4</sup>
+Mariam Raheem, Mohammed Ahmed Al-janabi, Mohaimen Q. Algburi, Ayman N. Muhi\*
 
-<sup>1</sup> College of Communication Engineering, University of Technology- Iraq, mariam.r.abdulsahib@uotechnology.edu.iq<br>
-<sup>2</sup> College of Communication Engineering, University of Technology- Iraq, mohammed.a.kareem@uotechnology.edu.iq<br>
-<sup>3</sup> College of Communication Engineering, University of Technology- Iraq, mohaimen.q.khalaf@uotechnology.edu.iq<br>
-<sup>4</sup> College of Communication Engineering, University of Technology- Iraq, aymen.n.muhi@uotechnology.edu.iq
+College of Communication Engineering, University of Technology- Iraq
+
+Emails:<br>
+Mariam Raheem: mariam.r.abdulsahib@uotechnology.edu.iq<br>
+Mohammed Ahmed Al-janabi: mohammed.a.kareem@uotechnology.edu.iq<br>
+Mohaimen Q. Algburi: mohaimen.q.khalaf@uotechnology.edu.iq<br>
+Ayman N. Muhi: aymen.n.muhi@uotechnology.edu.iq
 
 \*Correspondence: aymen.n.muhi@uotechnology.edu.iq
 
